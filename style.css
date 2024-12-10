@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.container1{
+    background-image: url('thumb-1920-1308025.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 87%;
+    filter: blur(3px);
+}
