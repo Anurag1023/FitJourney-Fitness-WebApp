@@ -21,6 +21,7 @@ body{
     border: 2px solid white;
     align-items: center;
     justify-content: center;
+    border-radius: 12px;
 }
 
 .container2{
@@ -56,5 +57,22 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     top: 0;
+}
 
+.name h1{
+    color: tomato;
+}
+
+
+.chatbot a{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
 }
