@@ -4,7 +4,7 @@ FitJourney is a web app that offers home-based workouts. It allows users to sele
 
 ## Homepage preview
 
-![Homepage Preview](https://res.cloudinary.com/snapify/image/upload/v1682795719/flexin-images/flexin.png)
+![Homepage Preview](Screenshot 2024-12-13 162132.png)
 
 ## Features
 
