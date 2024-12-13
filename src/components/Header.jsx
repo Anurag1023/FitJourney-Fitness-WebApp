@@ -1,4 +1,4 @@
-import Logo from "../assets/logo.svg"
+import Logo from "../assets/logo.png"
 import { BiDumbbell } from "react-icons/bi"
 import { BsArrowRight } from "react-icons/bs"
 import Check from "../assets/check.svg"
