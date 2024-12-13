@@ -31,12 +31,12 @@ export default function Header() {
                 alt=""
                 className="absolute -bottom-1 left-0 right-0  pointer-events-none select-none"
               />
-              FlexIn
+              FitJourney
             </span>
             !
           </h1>
           <p className="text-dark-40 mb-16 leading-6 md:text-base max-w-[530px] animate__animated animate__fadeInUp">
-            Achieve your fitness goals from home with FlexIn! Our personalized
+            Achieve your fitness goals from home with FitJourney! Our personalized
             fitness plans help you get fit on your own terms.Start your journey
             towards a healthier, happier you today!
           </p>
