@@ -18,7 +18,7 @@ export default function Header() {
         <a href="/" className="block w-fit mt-12">
           <img
             src={Logo}
-            alt="flexin logo"
+            alt="FitJourney logo"
             className="w-[110px] select-none pointer-events-none"
           />
         </a>

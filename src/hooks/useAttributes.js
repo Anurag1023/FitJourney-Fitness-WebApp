@@ -1,7 +1,8 @@
 import { useEffect } from "react"
 
 export const useAttributes = (workoutAttributes, setWorkoutAttributes) => {
-  const localStorageName = "flexinWorkout"
+  // const localStorageName = "flexinWorkout"
+  const localStorageName = "FitJourneyWorkout"
 
   const isValidAttributes = (obj) => {
     return obj.hasOwnProperty("part") && obj.hasOwnProperty("difficulty")
