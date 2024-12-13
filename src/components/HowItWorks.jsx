@@ -17,14 +17,14 @@ export default function HowItWorks() {
       icon: <AiOutlineMenu />,
       title: "Get your workout list",
       description:
-        "Flexin generates a list of exercises for you, with images and recommended reps/sets.",
+        "FitJourney generates a list of exercises for you, with images and recommended reps/sets.",
     },
     {
       id: 3,
       icon: <BiDumbbell />,
       title: "Start your workout",
       description:
-        'Click "Start Workout" to begin. Flexin displays each exercise in order, with a timer. Pause, skip ahead, or stop your workout anytime.',
+        'Click "Start Workout" to begin. FitJourney displays each exercise in order, with a timer. Pause, skip ahead, or stop your workout anytime.',
     },
   ]
 
