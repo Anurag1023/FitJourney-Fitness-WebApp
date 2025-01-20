@@ -4,7 +4,7 @@ FitJourney is a web app that offers home-based workouts. It allows users to sele
 
 ## Homepage preview
 
-![Homepage Preview](Screenshot 2024-12-13 162132.png)
+![Homepage Preview](./HomePics.png "Homepage Preview")
 
 ## Features
 
